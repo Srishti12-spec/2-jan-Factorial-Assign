@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: bisque;
+    box-sizing: border-box;
+    margin-top: 15%;
+}
+
+button{
+    border: 5px solid bisque;
+    border-radius: 10px;
+    padding: 5px;
+    color: brown;
+    font-size: 20px;
+}
+
+input {
+    
+    margin: 0.35rem;
+    padding: 0.35rem;
+    border-radius: 5px;
+    border-color: bisque;
+    padding: 10px;
+}
+
+h2{
+    color: brown;
+    font-size: 40px;
+}
+p{
+    color: brown;
+    font-size: 30px;
+}
+@media (min-width: 500px) {
+    body {
+        background-color: #ebd4d4;
+    }
+}
+    
